@@ -1,0 +1,5 @@
+<image class="topimg" src="../../asset/top.svg"></image>
+<view class="title">故事开始</view>
+<view class="tips">点击“获取定位”，我们将在地图中显示您的位置</view>
+<button class="mainbtn" bindtap="tomap">获取定位</button>
+<button class="mainbtn" bindtap="tobeijingmap">北京城区</button>

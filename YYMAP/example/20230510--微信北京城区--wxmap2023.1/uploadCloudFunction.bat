@@ -1,0 +1,1 @@
+"D:\Program Files (x86)\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-8gwjsuqb7c9de36e --n lbs_server --r --project "D:\xampp\htdYYMAPitee\djdt\YDMAP\example\westorymap" --report_first --report

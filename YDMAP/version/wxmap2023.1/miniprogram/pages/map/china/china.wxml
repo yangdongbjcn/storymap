@@ -1,5 +1,0 @@
-<!--miniprogram/pages/map/china/china_region.wxml-->
-
-<view class="text-wrap"><text class="text">地图</text> </view>
-
-<chinamap dataList="{{dataList}}" dataPoint="{{dataPoint}}" id="mapComponent" />
